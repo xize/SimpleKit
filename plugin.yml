@@ -1,0 +1,17 @@
+name: SimpleKit
+version: 1.0
+description: SimpleKit
+author: Xeph0re
+authors: [] 
+website:
+
+main: tv.mineinthebox.simplekit.KitPlugin
+database: false
+depend: []
+softdepend: []
+
+commands:
+  kits:
+     description: Allows you to use kits
+     aliases: []
+     permission: simplekits.command.kits
